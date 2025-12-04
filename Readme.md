@@ -1,4 +1,4 @@
-# 📌 Association Rule Mining: Market Basket Insights
+# Association Rule Mining: Market Basket Insights
 
 <p align="center">
   <img src="imgs/ARM.png" alt="ARM" width="300">
@@ -41,7 +41,7 @@ Association Rule Mining empowers retailers to **optimize product placement, bund
 📦 Association Rule Mining
  ┣ 📂 imgs
  ┣ 📜 Association_Rule_Mining.ipynb     # Main notebook (data preprocessing, Apriori, rules, visualizations)
- ┗ README.md
+ ┗ 📜 README.md
 </pre>
 
 ---
